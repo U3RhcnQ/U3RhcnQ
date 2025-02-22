@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 
 ## 📫 How to Reach Me
 
-- **Email:** [email@example.com](u3rhcnq@gmail.com)
+- **Email:** [My email](u3rhcnq@gmail.com)
 <!-- - **LinkedIn:** [linkedin.com/in/username](https://linkedin.com/in/username) -->
 
 ## 📈 GitHub Stats
