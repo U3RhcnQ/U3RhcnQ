@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 ## 📈 GitHub Stats
 
 
-
+[![U3RhcnQ's GitHub stats](https://githubstats-p53vv1z1w-u3rhcnqs-projects.vercel.app/api?username=U3RhcnQ&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![U3RhcnQ's GitHub Stats](https://githubstats-p53vv1z1w-u3rhcnqs-projects.vercel.app/api?username=U3RhcnQ&show_icons=true&theme=radical)
 
 ![Top Languages](https://githubstats-p53vv1z1w-u3rhcnqs-projects.vercel.app/api/top-langs/?username=U3RhcnQ&layout=compact&theme=radical)
