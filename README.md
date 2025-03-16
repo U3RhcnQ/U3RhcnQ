@@ -27,9 +27,11 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 
 ## 📈 GitHub Stats
 
-![U3RhcnQ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=U3RhcnQ&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=U3RhcnQ&layout=compact&theme=radical)
+
+![U3RhcnQ's GitHub Stats](https://githubstats-p53vv1z1w-u3rhcnqs-projects.vercel.app/api?username=U3RhcnQ&show_icons=true&theme=radical)
+
+![Top Languages](https://githubstats-p53vv1z1w-u3rhcnqs-projects.vercel.app/api/top-langs/?username=U3RhcnQ&layout=compact&theme=radical)
 
 ## 💬 Let's Connect!
 
